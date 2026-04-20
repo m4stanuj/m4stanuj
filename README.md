@@ -16,9 +16,13 @@
 
 <!-- SOCIAL BADGES -->
 <br/>
+<img src="https://komarev.com/ghpvc/?username=m4stanuj&label=UNIQUE+NODE+CONNECTIONS&color=00FF9D&style=for-the-badge" alt="profile views" />
+<br/><br/>
 <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/m4stanuj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://ko-fi.com/m4stanuj"><img src="https://img.shields.io/badge/Fund_The_Mesh-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
 
 </div>
 
@@ -135,6 +139,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&ring_color=A855F7" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%" />
+
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4stanuj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="100%" />
 
 <br/><br/>
 
