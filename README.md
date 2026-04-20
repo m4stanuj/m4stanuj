@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
@@ -27,7 +29,6 @@ I don't use AI tools. I build AI that builds tools.
 ---
 
 ## `> cat /about/me.txt`
-
 ```python
 class AutonomousSystemsArchitect:
     """
@@ -38,12 +39,12 @@ class AutonomousSystemsArchitect:
     
     handle    = "M4ST"
     role      = "Autonomous Systems Architect"
-    focus     = ["Multi-Agent Orchestration", "MCP Protocol", "AI Infrastructure"]
+    focus     = ["Multi-Agent Orchestration", "MCP Protocol", "AI Infrastructure", "Offensive Security"]
     philosophy = "80% in 3hrs > 100% in 3 days"
     
     currently = {
-        "building":  "M4STCLAW v3 -- 16-server autonomous AI mesh",
-        "exploring": "Agentic workflows, offensive security automation",
+        "building":  "M4ST Blueprint v5 -- Hermes Self-Learning Loop & DAG Orchestration",
+        "exploring": "Self-modifying code, zero-day automation, distributed tracing",
         "scaling":   "Zero-cost AI infra across 7 LLM providers"
     }
 ```
@@ -51,12 +52,11 @@ class AutonomousSystemsArchitect:
 ---
 
 ## `> ls /systems/`
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### M4STCLAW v3
+### M4STCLAW v5
 **Autonomous AI Mesh Network**
 
 The brain behind everything. 16 interconnected MCP servers forming a self-healing agent network with intelligent task routing.
@@ -109,18 +109,53 @@ From target to PDF report -- fully autonomous. Shodan + Nmap + Nuclei orchestrat
 </td>
 <td width="50%" valign="top">
 
-### Semantic Cache Engine
-**LLM Response Cache**
+### Hermes Learning Engine
+**Autonomous Skill Acquisition Loop**
 
-Drop-in ChromaDB vector cache that cuts API costs 40-60%. Zero configuration, production-tested.
+The self-improving core of the architecture. Automatically extracts, generalizes, and stores successful task executions as reusable skills.
 
 ```
-|- Vector similarity matching
-|- 58% cache hit rate
-|- 40-60% cost reduction
-|- Drop-in integration
-|- Zero configuration
-'- Multi-provider support
+|- Success/Failure analysis
+|- SQLite skill repository
+|- Human-in-the-loop feedback
+|- Adaptive execution
+|- Zero-shot to few-shot evolution
+'- Blueprint v5 compliant
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Ultrawork Orchestrator
+**Topological DAG Task Execution**
+
+Handles extreme complexity via DAG-based orchestration. Breaks down massive objectives into parallel and sequential sub-tasks.
+
+```
+|- SQLite task queue
+|- Topological sorting
+|- Parallel agent execution
+|- Dynamic budget caps
+'- Single-agent fallback
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Gateway Hardening
+**Secure-by-Design Boundary**
+
+Enterprise-grade security perimeter for local and remote MCP access, preventing injection and tracing all operations.
+
+```
+|- Tool result sanitization
+|- Injection Guards
+|- Request_id distributed tracing
+|- Auth middleware & circuit breakers
+|- Localhost-default binding
+'- Real-time anomaly detection
 ```
 
 </td>
@@ -128,8 +163,6 @@ Drop-in ChromaDB vector cache that cuts API costs 40-60%. Zero configuration, pr
 </table>
 
 ---
-
-## `> cat /tech/stack.yml`
 
 <div align="center">
 
@@ -163,24 +196,23 @@ Drop-in ChromaDB vector cache that cuts API costs 40-60%. Zero configuration, pr
 
 ---
 
-## `> cat /architecture/m4stclaw_v3.md`
-
+## `> cat /architecture/m4stclaw_v5.md`
 ```
                         +----------------------------------+
-                        |     M4STCLAW v3 -- CORE MESH     |
-                        |   Autonomous Systems Architect    |
+                        |     M4STCLAW v5 -- CORE MESH     |
+                        |   Autonomous Systems Architect   |
                         +----------------+-----------------+
                                          |
               +--------------------------+-------------------------+
               |                          |                         |
      +--------v--------+       +--------v--------+       +--------v--------+
-     |   BRAIN CHAIN   |       |   MCP SERVERS   |       |  MEMORY SYSTEM  |
+     |   BRAIN CHAIN   |       |   MCP SERVERS   |       |  HERMES SYSTEM  |
      |                 |       |                 |       |                 |
-     | 9 Task Chains   |       | 16 Active       |       | Core (identity) |
-     | 56 API Keys     |       | Research        |       | Recall (tasks)  |
-     | 7 LLM Providers |       | Browser         |       | Archival (deep) |
-     | Auto-failover   |       | Pentest         |       | ChromaDB vector |
-     | Zero-cost       |       | Scheduler       |       | Cross-session   |
+     | DAG Orchestrator|       | 16 Active       |       | Skill Extraction|
+     | 9 Task Chains   |       | Research        |       | Success/Failure |
+     | 56 API Keys     |       | Browser         |       | Human Feedback  |
+     | 7 LLM Providers |       | Pentest         |       | SQLite Store    |
+     | Injection Guard |       | Scheduler       |       | 3-Tier ChromaDB |
      +-----------------+       +-----------------+       +-----------------+
 
      CAPABILITIES: speed | reason | code | vision | research | write | agent | pentest
@@ -190,7 +222,6 @@ Drop-in ChromaDB vector cache that cuts API costs 40-60%. Zero configuration, pr
 ---
 
 ## `> git log --oneline`
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" width="49%" />
@@ -205,7 +236,6 @@ Drop-in ChromaDB vector cache that cuts API costs 40-60%. Zero configuration, pr
 ---
 
 ## `> echo $PHILOSOPHY`
-
 ```
 +----------------------------------------------------------------------+
 |                                                                      |
