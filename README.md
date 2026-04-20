@@ -146,25 +146,6 @@
 
 ---
 
-## 📊 `> system_metrics --render`
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&ring_color=A855F7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%" />
-
-<br/><br/>
-
-<!-- GITHUB SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
-
----
-
 ## 🛰️ `> execute contact_protocol.sh --override`
 <div align="center">
   <p><b>[ INITIALIZING HANDSHAKE PROTOCOL ]</b><br/>Ready to deploy your own Autonomous AI Mesh?</p>
