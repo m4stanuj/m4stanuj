@@ -74,7 +74,7 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <img src="https://i.pinimg.com/originals/bc/ac/e5/bcace53eb4d1f2e132c32cf9bd92751f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #00FF9D;">M4STCLAW v5</h3>
   <b>Autonomous AI Mesh Network</b><br/>
@@ -90,14 +90,14 @@
 </tr>
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216836706-9ab50c53-b1d6-44c1-8b06-03cda789b7bd.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <img src="https://i.pinimg.com/originals/18/16/be/1816bea55ed592f65a12d1ee0ee216df.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #3B82F6;">Hermes Learning Engine</h3>
   <b>Self-Writing Skill Matrix</b><br/>
   <p style="font-size: 13px; color: #8b949e;">A recursive loop that extracts, generalizes, and permanently stores successful task executions as reusable skills for future autonomous agents.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216837015-81a17950-8de6-45ef-afdb-2fb40e10f135.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <img src="https://i.pinimg.com/originals/0a/6e/0f/0a6e0f4f092d6e3df1c2d0391ab6e254.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #EF4444;">LeadSniper v2.0</h3>
   <b>AI Lead Generation Engine</b><br/>
