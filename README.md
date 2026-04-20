@@ -1,18 +1,20 @@
 <div align="center">
 
 <!-- BIG ANIMATED BANNER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="220" style="object-fit: cover; border-radius: 12px; box-shadow: 0 0 30px rgba(168, 85, 247, 0.4);" />
+<img src="https://i.pinimg.com/originals/30/8a/a5/308aa58b09341c30d9cbcd0654bc15ba.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px; box-shadow: 0 0 30px rgba(0, 255, 157, 0.4);" />
 
 <!-- ANIMATED TYPING HEADER -->
 <br/><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Autonomous+Systems+Architect+%7C+M4ST;Building+AI+that+builds+tools...;Offensive+Security+%7C+Multi-Agent+Mesh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%24+whoami;Autonomous+Systems+Architect+%7C+M4ST;Building+AI+that+builds+tools...;Offensive+Security+%7C+Multi-Agent+Mesh" alt="Typing SVG" /></a>
 
 <br/>
 
-```text
+<div style="padding: 10px; border-left: 3px solid #00FF9D; background-color: rgba(0,255,157,0.05);">
+<pre style="margin: 0; background: transparent; font-family: monospace;">
 [ SYSTEM ONLINE ] -> M4STCLAW v5 Active.
 "I don't use AI tools. I build AI that builds tools."
-```
+</pre>
+</div>
 
 <!-- SOCIAL BADGES -->
 <br/>
@@ -23,14 +25,13 @@
 <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://ko-fi.com/m4stanuj"><img src="https://img.shields.io/badge/Fund_The_Mesh-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
-
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0 0 25px rgba(0, 255, 157, 0.3);" />
-</div>
+<table align="center" style="border: none; width: 100%; border-collapse: collapse;">
+<tr>
+<td width="60%" style="border: none;">
 
 ## 🧠 `> cat /config/architect_profile.json`
 ```json
@@ -53,7 +54,12 @@
   }
 }
 ```
-<br clear="both"/>
+</td>
+<td width="40%" align="center" style="border: none;">
+  <img src="https://i.pinimg.com/originals/8a/be/ca/8abeca661e479c3ba0240d908ff9ebdb.gif" width="350" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 157, 0.3);" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,15 +79,15 @@
 
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://i.pinimg.com/originals/bc/ac/e5/bcace53eb4d1f2e132c32cf9bd92751f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+<td width="50%" align="center" style="border: none; padding: 15px;">
+  <img src="https://i.pinimg.com/originals/bc/ac/e5/bcace53eb4d1f2e132c32cf9bd92751f.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #00FF9D;">M4STCLAW v5</h3>
   <b>Autonomous AI Mesh Network</b><br/>
   <p style="font-size: 13px; color: #8b949e;">16 interconnected MCP servers forming a self-healing agent network with 56 API keys & 7 LLMs. Zero-cost simulation of a $10M enterprise stack.</p>
 </td>
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+<td width="50%" align="center" style="border: none; padding: 15px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #A855F7;">CAI-OSINT</h3>
   <b>Autonomous Pentest Framework</b><br/>
@@ -89,15 +95,15 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://i.pinimg.com/originals/18/16/be/1816bea55ed592f65a12d1ee0ee216df.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+<td width="50%" align="center" style="border: none; padding: 15px;">
+  <img src="https://i.pinimg.com/originals/18/16/be/1816bea55ed592f65a12d1ee0ee216df.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #3B82F6;">Hermes Learning Engine</h3>
   <b>Self-Writing Skill Matrix</b><br/>
   <p style="font-size: 13px; color: #8b949e;">A recursive loop that extracts, generalizes, and permanently stores successful task executions as reusable skills for future autonomous agents.</p>
 </td>
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://i.pinimg.com/originals/0a/6e/0f/0a6e0f4f092d6e3df1c2d0391ab6e254.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+<td width="50%" align="center" style="border: none; padding: 15px;">
+  <img src="https://i.pinimg.com/originals/0a/6e/0f/0a6e0f4f092d6e3df1c2d0391ab6e254.gif" width="100%" height="200" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
   <br/><br/>
   <h3 style="margin:0; color: #EF4444;">LeadSniper v2.0</h3>
   <b>AI Lead Generation Engine</b><br/>
@@ -123,13 +129,13 @@
 </div>
 <br/>
 
-> **[ ZERO-COST ARCHITECT ]**
+> **[ ZERO-COST ARCHITECT ]**  
 > Successfully orchestrated a 16-node AI mesh network mimicking a $10M enterprise infrastructure at exactly $0/month using intelligent API key rotation.
 
-> **[ OFFENSIVE SECURITY AUTOMATION ]**
+> **[ OFFENSIVE SECURITY AUTOMATION ]**  
 > Engineered CAI-OSINT, an autonomous penetration testing framework capable of bypassing WAFs, mapping attack surfaces, and executing zero-day recon without human intervention.
 
-> **[ INDEPENDENT AI RESEARCHER ]**
+> **[ INDEPENDENT AI RESEARCHER ]**  
 > Authored the M4ST Blueprint v5: A pioneering architecture for DAG-based topological orchestration and self-healing memory loops.
 
 ---
