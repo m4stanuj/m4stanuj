@@ -94,6 +94,55 @@
 
 ---
 
+## 🏆 `> cat /career/achievements.json`
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=m4stanuj&theme=algolia&column=6&no-frame=true&margin-w=15" alt="m4stanuj" />
+  </a>
+</div>
+<br/>
+
+<table border="1" width="100%">
+<tr>
+  <td align="center" width="25%">
+    <img src="https://img.shields.io/badge/CERTIFIED-ZERO_COST_ARCHITECT-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black" />
+  </td>
+  <td width="75%">
+    <b>Zero-Cost Architect</b><br/>
+    Successfully orchestrated a <b>16-node AI mesh network</b> mimicking $10M enterprise infrastructure at exactly $0/month using intelligent API key rotation (56 keys, 7 LLM providers).
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/CERTIFIED-OFFENSIVE_SECURITY_AI-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  </td>
+  <td>
+    <b>Offensive Security Automation</b><br/>
+    Engineered <b>CAI-OSINT</b>, an autonomous penetration testing framework capable of bypassing WAFs, mapping attack surfaces, and executing zero-day recon without human intervention.
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/PUBLISHED-M4ST_BLUEPRINT_v5-00599C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </td>
+  <td>
+    <b>Independent AI Researcher</b><br/>
+    Authored the <b>M4ST Blueprint v5</b>: A pioneering architecture for DAG-based topological orchestration and self-healing memory loops (Hermes) in autonomous agents.
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/TOP_1%25-AUTOMATED_LEAD_GEN-4CAF50?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </td>
+  <td>
+    <b>High-Frequency Lead Gen</b><br/>
+    Built and deployed <b>LeadSniper v2.0</b>, autonomously scraping, intent-scoring, and pitching thousands of high-value B2B leads via LLM pipelines.
+  </td>
+</tr>
+</table>
+
+---
+
 ## 📊 `> system_metrics --show`
 <div align="center">
 
