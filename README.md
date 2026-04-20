@@ -32,6 +32,7 @@
 ```json
 {
   "class": "AutonomousSystemsArchitect",
+  "experience": "7+ Years | Architecting Systems since 2018",
   "mission": "Architecting multi-agent AI systems that operate autonomously.",
   "philosophy": "Replicate $10M enterprise AI infrastructure for $0.",
   "core_focus": [
@@ -102,6 +103,36 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,sqlite,redis&perline=8" />
 </div>
+
+---
+
+## 🕰️ `> history | grep "M4ST Architecture Evolution"`
+<details>
+<summary><b>[2018-2026] Click to view legacy systems and architectural evolution</b></summary>
+<br/>
+<table border="1" width="100%">
+<tr>
+  <td><b>v1.0 (2018)</b></td>
+  <td><b>The Monolith</b> - Basic monolithic scripting and early RPA bots for data aggregation.</td>
+</tr>
+<tr>
+  <td><b>v2.0 (2020)</b></td>
+  <td><b>Distributed Webhooks</b> - Transitioned to microservices connected via serverless edge functions.</td>
+</tr>
+<tr>
+  <td><b>v3.0 (2022)</b></td>
+  <td><b>Proto-Agent Swarm</b> - Initial experiments with primitive LLM routing and task delegation.</td>
+</tr>
+<tr>
+  <td><b>v4.0 (2024)</b></td>
+  <td><b>M4STCLAW Core</b> - 8-node local MCP network with basic cost-mitigation via token pooling.</td>
+</tr>
+<tr>
+  <td><b>v5.0 (Present)</b></td>
+  <td><b>Autonomous Mesh (Current)</b> - 16-node self-healing network, DAG orchestration, Hermes learning loop, 100% Zero-Cost.</td>
+</tr>
+</table>
+</details>
 
 ---
 
