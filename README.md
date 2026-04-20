@@ -67,7 +67,7 @@
 <table border="1" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
   <h3>M4STCLAW v5</h3>
   <b>Autonomous AI Mesh Network</b><br/>
   16 interconnected MCP servers forming a self-healing agent network with 56 API keys & 7 LLMs.
@@ -81,13 +81,13 @@
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284156-f61763a8-4e1e-42ef-9f56-62ceb33e213b.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/216836706-9ab50c53-b1d6-44c1-8b06-03cda789b7bd.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
   <h3>Hermes Learning Engine</h3>
   <b>Autonomous Skill Acquisition Loop</b><br/>
   Extracts, generalizes, and stores successful task executions as reusable skills.
 </td>
 <td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284133-14eeb226-f77a-42cd-9bc6-e2a229676e1a.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/216837015-81a17950-8de6-45ef-afdb-2fb40e10f135.gif" width="100%" height="150" style="object-fit: cover; border-radius: 5px; margin-bottom: 10px;" />
   <h3>LeadSniper v2.0</h3>
   <b>AI Lead Generation Engine</b><br/>
   Scrapes, scores by intent, and generates personalized pitches with LLM pipelines.
