@@ -17,11 +17,30 @@ Find a reproducible bypass for GitHub's "Sentinel" anti-abuse system that allows
 - **Hypothesis:** By perfectly mimicking an "Incognito" browser state (which naturally lacks persistent storage and many cookies), we can reset the behavioral score more effectively than a standard session.
 - **Test:** Use `zendriver` to generate a high-entropy "clean" profile for every interaction.
 
+### 4. The "Collector" Suppression Bypass
+- **Hypothesis:** GitHub's backend allows actions (Star/Follow) even if the `collector.github.com` beacon is blocked or fails. If true, an attacker can perform actions without sending behavioral telemetry, effectively blinding the Sentinel's behavioral analysis.
+- **Test:** Block `collector.github.com` via `/etc/hosts` or browser interception and attempt to programmatically star a repository.
+
 ## 📊 Research Log
 | Date | Test Case | Result | Notes |
 | :--- | :--- | :--- | :--- |
 | 2026-04-20 | API Threshold Probe | SUCCESS | Baseline rate-limit is 60 req/hr for unauth. |
 | 2026-04-20 | UA Fingerprinting | FLAG | Custom UAs are flagged significantly faster than Chrome UAs. |
+| 2026-04-20 | Frontend Analysis | SUCCESS | Identified `collector.github.com` and `behaviors.js` as key tracking nodes. |
+| 2026-04-20 | Star Request Anatomy | SUCCESS | Intercepted exact headers and payload for the starring action. |
+
+## 🛠️ Technical Intelligence
+
+### Star Request Structure
+- **Endpoint:** `https://github.com/[user]/[repo]/star`
+- **Method:** `POST`
+- **Required Headers:**
+  - `x-fetch-nonce`: Dynamic session nonce.
+  - `x-github-client-version`: Current frontend build SHA.
+  - `x-requested-with`: `XMLHttpRequest`.
+- **Payload:**
+  - `authenticity_token`: CSRF token from page meta-tags.
+  - `context`: `repository`.
 
 ## 🛡️ Responsible Disclosure Policy
 If a critical bypass is found, it will be reported via **HackerOne** under the GitHub Security Bug Bounty program. No public disclosure until patched.
