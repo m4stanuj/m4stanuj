@@ -51,6 +51,17 @@
 
 ---
 
+## 📡 `> tail -f /var/log/m4stclaw/live_mesh.log`
+```console
+[2026-04-20 01:14:02] [INFO]  Hermes Node 4: Successfully abstracted 'Zero-Day Recon' into reusable skill.
+[2026-04-20 01:22:19] [WARN]  LeadSniper Engine: Rate limit hit on Target-X. Rotating to Proxy Pool #14.
+[2026-04-20 01:22:21] [INFO]  LeadSniper Engine: Proxy rotated. Resuming intent-scoring pipeline.
+[2026-04-20 02:05:44] [SEC]   Gateway: Blocked 4 unauthorized MCP connection attempts. IP logged.
+[2026-04-20 02:27:11] [TASK]  Ultrawork DAG: Sub-task 4/19 complete. Budget remaining: 98%.
+```
+
+---
+
 ## ⚡ `> ls /systems/`
 <table border="1" width="100%">
 <tr>
@@ -161,6 +172,14 @@
 </div>
 
 ---
+
+## 🛰️ `> execute contact_protocol.sh`
+<div align="center">
+  <h3>Ready to deploy your own Autonomous AI Mesh?</h3>
+  <a href="mailto:m4stanuj@gmail.com">
+    <img src="https://img.shields.io/badge/INITIATE_CONTACT_PROTOCOL-A855F7?style=for-the-badge&logo=minutemailer&logoColor=white&logoSize=large" alt="Hire Me" />
+  </a>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%"/>
