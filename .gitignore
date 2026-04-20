@@ -1,0 +1,14 @@
+# Ghost activity logs (private)
+.m4st_ghost_activity.log
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
