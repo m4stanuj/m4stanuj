@@ -70,34 +70,50 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <a href="https://github.com/m4stanuj/M4STCLAW"><img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
-  <h3 style="margin:0; color: #00FF9D;">M4STCLAW v5</h3>
+  <a href="https://github.com/m4stanuj/M4STCLAW"><h3 style="margin:0; color: #00FF9D;">M4STCLAW v5</h3></a>
   <b>Autonomous AI Mesh Network</b><br/>
-  <p style="font-size: 13px; color: #8b949e;">16 interconnected MCP servers forming a self-healing agent network with 56 API keys & 7 LLMs. Zero-cost simulation of a $10M enterprise stack.</p>
+  <p style="font-size: 13px; color: #8b949e;">16 MCP servers forming a self-healing agent network with 56 API keys & 7 LLMs. Zero-cost $10M enterprise simulation.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <a href="https://github.com/m4stanuj/cai-osint"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
-  <h3 style="margin:0; color: #A855F7;">CAI-OSINT</h3>
+  <a href="https://github.com/m4stanuj/cai-osint"><h3 style="margin:0; color: #A855F7;">CAI-OSINT</h3></a>
   <b>Autonomous Pentest Framework</b><br/>
-  <p style="font-size: 13px; color: #8b949e;">From target acquisition to PDF report—fully autonomous. Integrates Shodan, Nmap, and Nuclei, orchestrated entirely by AI agents.</p>
+  <p style="font-size: 13px; color: #8b949e;">From target to PDF report—fully autonomous. Shodan + Nmap + Nuclei orchestrated by DeepSeek-R1. CEH-aligned.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216836706-9ab50c53-b1d6-44c1-8b06-03cda789b7bd.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <a href="https://github.com/m4stanuj/openwork"><img src="https://user-images.githubusercontent.com/74038190/216836706-9ab50c53-b1d6-44c1-8b06-03cda789b7bd.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
-  <h3 style="margin:0; color: #3B82F6;">Hermes Learning Engine</h3>
-  <b>Self-Writing Skill Matrix</b><br/>
-  <p style="font-size: 13px; color: #8b949e;">A recursive loop that extracts, generalizes, and permanently stores successful task executions as reusable skills for future autonomous agents.</p>
+  <a href="https://github.com/m4stanuj/openwork"><h3 style="margin:0; color: #3B82F6;">OpenWork v12</h3></a>
+  <b>Universal MCP Workspace</b><br/>
+  <p style="font-size: 13px; color: #8b949e;">One brain, every IDE. 16 MCP servers that make Cursor, Claude Desktop, or Codex dramatically smarter. Same SOUL everywhere.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216837015-81a17950-8de6-45ef-afdb-2fb40e10f135.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" />
+  <a href="https://github.com/m4stanuj/LeadSniper"><img src="https://user-images.githubusercontent.com/74038190/216837015-81a17950-8de6-45ef-afdb-2fb40e10f135.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
-  <h3 style="margin:0; color: #EF4444;">LeadSniper v2.0</h3>
+  <a href="https://github.com/m4stanuj/LeadSniper"><h3 style="margin:0; color: #EF4444;">LeadSniper v2.0</h3></a>
   <b>AI Lead Generation Engine</b><br/>
-  <p style="font-size: 13px; color: #8b949e;">High-frequency intent scraping architecture. Scores targets by intent and generates hyper-personalized pitches with LLM pipelines.</p>
+  <p style="font-size: 13px; color: #8b949e;">High-frequency intent scraping. Scores targets by intent and generates hyper-personalized pitches with LLM pipelines.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="border: none; padding: 10px;">
+  <a href="https://github.com/m4stanuj/semantic-cache-engine"><img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <br/><br/>
+  <a href="https://github.com/m4stanuj/semantic-cache-engine"><h3 style="margin:0; color: #FACC15;">Semantic Cache Engine</h3></a>
+  <b>LLM Response Cache</b><br/>
+  <p style="font-size: 13px; color: #8b949e;">Drop-in ChromaDB vector cache. Cuts API costs 40-60%. 58% hit rate in production. Zero configuration needed.</p>
+</td>
+<td width="50%" align="center" style="border: none; padding: 10px;">
+  <a href="https://github.com/m4stanuj/antigravity-migration"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f8c-6ab1-48c1-a408-e70e3ac5ae7a.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <br/><br/>
+  <a href="https://github.com/m4stanuj/antigravity-migration"><h3 style="margin:0; color: #22C55E;">Antigravity Migration</h3></a>
+  <b>IDE Migration Package</b><br/>
+  <p style="font-size: 13px; color: #8b949e;">Complete M4ST→Antigravity migration. 21-provider LLM config, 5 MCP servers, 91 tools. One-click deploy.</p>
 </td>
 </tr>
 </table>
