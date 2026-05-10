@@ -70,7 +70,7 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/m4stanuj/MAST"><img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <a href="https://github.com/m4stanuj/MAST"><img src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/main/mast_banner.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
   <a href="https://github.com/m4stanuj/MAST"><h3 style="margin:0; color: #00FF9D;">MAST v1.0 (Agentic OS)</h3></a>
   <b>Unified AI Operator Core</b><br/>
