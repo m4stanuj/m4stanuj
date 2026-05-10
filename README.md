@@ -10,7 +10,7 @@
 <br/>
 
 ```text
-[ SYSTEM ONLINE ] -> M4STCLAW v7 (Enterprise Kernel) Active.
+[ SYSTEM ONLINE ] -> MAST v1.0 (Agentic OS Kernel) Active.
 "I don't prompt LLMs. I architect distributed multi-agent swarms that build their own models."
 ```
 
@@ -70,11 +70,11 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/m4stanuj/M4STCLAW"><img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <a href="https://github.com/m4stanuj/MAST"><img src="https://user-images.githubusercontent.com/74038190/229223263-d144e511-b1e7-4b68-b7eb-627c2b5bc75f.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
-  <a href="https://github.com/m4stanuj/M4STCLAW"><h3 style="margin:0; color: #00FF9D;">M4STCLAW v7 (Enterprise)</h3></a>
-  <b>Horizontally Scalable AI Swarm</b><br/>
-  <p style="font-size: 13px; color: #8b949e;">Production-grade multi-agent orchestrator. 160 MCP shards, 56 rotating LLMs, achieving 99.999% uptime for Fortune 500 workflows.</p>
+  <a href="https://github.com/m4stanuj/MAST"><h3 style="margin:0; color: #00FF9D;">MAST v1.0 (Agentic OS)</h3></a>
+  <b>Unified AI Operator Core</b><br/>
+  <p style="font-size: 13px; color: #8b949e;">Personal AI orchestrator. 21 MCP servers, 11 LLM providers, M4STCLAW v3 + OpenWork v12 integrated. Seamless NVIDIA NIM support.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
   <a href="https://github.com/m4stanuj/cai-osint"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
