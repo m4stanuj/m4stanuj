@@ -86,14 +86,14 @@
 </tr>
 <tr>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/m4stanuj/openwork"><img src="https://user-images.githubusercontent.com/74038190/216836706-9ab50c53-b1d6-44c1-8b06-03cda789b7bd.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <a href="https://github.com/m4stanuj/openwork"><img src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/main/openwork_banner.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
   <a href="https://github.com/m4stanuj/openwork"><h3 style="margin:0; color: #3B82F6;">OpenWork Omni-Brain</h3></a>
   <b>Cross-IDE Cognitive Core</b><br/>
   <p style="font-size: 13px; color: #8b949e;">Unified semantic memory system bridging Cursor, VSCode, and terminal. Uses temporal knowledge graphs for context preservation.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/m4stanuj/LeadSniper"><img src="https://user-images.githubusercontent.com/74038190/216837015-8de6-45ef-afdb-2fb40e10f135.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <a href="https://github.com/m4stanuj/LeadSniper"><img src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/main/sniper_banner.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
   <a href="https://github.com/m4stanuj/LeadSniper"><h3 style="margin:0; color: #EF4444;">Neural Sniper v3.0</h3></a>
   <b>LLM-Native Demand Generation</b><br/>
@@ -109,7 +109,7 @@
   <p style="font-size: 13px; color: #8b949e;">Distributed Tensor-based cache mechanism. Achieves 68% cache hit rates at scale, reducing inference latency by 900ms.</p>
 </td>
 <td width="50%" align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/m4stanuj/antigravity-migration"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f8c-6ab1-48c1-a408-e70e3ac5ae7a.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
+  <a href="https://github.com/m4stanuj/antigravity-migration"><img src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/main/aegis_banner.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" /></a>
   <br/><br/>
   <a href="https://github.com/m4stanuj/antigravity-migration"><h3 style="margin:0; color: #22C55E;">Aegis Deployment Mesh</h3></a>
   <b>Infrastructure as Code (IaC)</b><br/>
