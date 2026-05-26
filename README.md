@@ -86,6 +86,7 @@
 
 **[ OPEN TO: Freelance AI Automation · AI Engineering Roles · Open Source Collabs ]**
 
+[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m4stanuj.github.io)
 [![Hire Me](https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black)](mailto:m4stanuj@gmail.com)
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer)](https://capsule-render.vercel.app)
