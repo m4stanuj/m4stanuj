@@ -1,28 +1,40 @@
-<![CDATA[<div align="center">
+# m4stanuj
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=230&section=header&text=M4ST&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Solo%20AI%20Systems%20Architect%20%7C%20Building%20the%20MAST%20Ecosystem&descAlignY=55&descSize=16&descColor=8B9BB4)](https://github.com/m4stanuj)
+<p align="center">
+  <a href="https://github.com/m4stanuj">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=230&section=header&text=M4ST&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Solo%20AI%20Systems%20Architect%20%7C%20Building%20the%20MAST%20Ecosystem&descAlignY=55&descSize=16&descColor=8B9BB4" alt="M4ST Header" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Solo+AI+Systems+Architect+%7C+Bareilly%2C+India;%24+cat+mission.txt;Zero-cost+autonomous+agent+infrastructure+on+consumer+hardware;%24+uptime;21+MCP+servers+online+%7C+11+LLM+providers+active+%7C+%E2%82%B90%2Fmonth)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Solo+AI+Systems+Architect+%7C+Bareilly%2C+India;%24+cat+mission.txt;Zero-cost+autonomous+agent+infrastructure+on+consumer+hardware;%24+uptime;21+MCP+servers+online+%7C+11+LLM+providers+active+%7C+%E2%82%B90%2Fmonth" alt="Typing SVG" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <code>[ SYSTEM ONLINE ] → MAST v1.0 Active</code><br>
+  <code>"I build the infrastructure that makes AI tools actually work — agents, memory, routing, automation."</code><br><br>
+  <code>Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month</code>
+</p>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  [ SYSTEM ONLINE ] → MAST v1.0 Active                              │
-│  "I build the infrastructure that makes AI tools actually work —    │
-│   agents, memory, routing, automation."                             │
-│                                                                     │
-│  Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month  │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4stanuj)
-[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m4stanuj.github.io)
-[![Email](https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4stanuj@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/m4stanuj)
-[![Views](https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)](https://github.com/m4stanuj)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/m4stanuj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://m4stanuj.github.io">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="mailto:m4stanuj@gmail.com">
+    <img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://fiverr.com/m4stanuj">
+    <img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://github.com/m4stanuj">
+    <img src="https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -73,14 +85,14 @@
 
 ## 📊 `> ./system_diagnostics.sh`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=3B82F6&text_color=8B9BB4&ring_color=00FF9D" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F293D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=8B9BB4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=3B82F6" height="180" alt="Streak Stats"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=3B82F6&text_color=8B9BB4&ring_color=00FF9D" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F293D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=8B9BB4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=3B82F6" height="180" alt="Streak Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4stanuj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4stanuj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&langs_count=8" height="160" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -147,60 +159,62 @@ Full IDE migration config: 21-provider LLM routing chain, 5 MCP servers, 91 tool
 
 ## 🛠️ `> ./inspect_tech_stack.sh`
 
-<div align="center">
+<p align="center">
+  <strong>Core Languages & Frameworks</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,bash,linux,docker&perline=6" alt="Languages" />
+  </a>
+</p>
 
-**Core Languages & Frameworks**
+<p align="center">
+  <strong>AI / ML / Orchestration</strong><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=python&logoColor=00FF9D" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFD700?style=flat-square&logo=database&logoColor=black" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-00FF9D?style=flat-square&logo=protocol&logoColor=black" alt="MCP Protocol" />
+  <img src="https://img.shields.io/badge/Whisper_STT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="Whisper STT" />
+</p>
 
-[![skills](https://skillicons.dev/icons?i=py,ts,js,bash,linux,docker&perline=6)](https://skillicons.dev)
+<p align="center">
+  <strong>Infrastructure & Tools</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,nginx,vscode,git,github&perline=8" alt="Infrastructure" />
+  </a>
+</p>
 
-**AI / ML / Orchestration**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=python&logoColor=00FF9D)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFD700?style=flat-square&logo=database&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-00FF9D?style=flat-square&logo=protocol&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper_STT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-
-**Infrastructure & Tools**
-
-[![infra](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,nginx,vscode,git,github&perline=8)](https://skillicons.dev)
-
-**Security & OSINT**
-
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-6C3483?style=flat-square&logo=security&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH_Methodology-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-
-</div>
+<p align="center">
+  <strong>Security & OSINT</strong><br>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Nuclei-6C3483?style=flat-square&logo=security&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/CEH_Methodology-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="CEH" />
+</p>
 
 ---
 
 ## 🐍 `> render contribution_snake.svg`
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 ## 🏆 `> cat /build/highlights.txt`
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=m4stanuj&theme=algolia&column=6&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=m4stanuj&theme=algolia&column=6&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 > **[ 🏗️ MAST ECOSYSTEM ARCHITECT ]**
 > Built a unified autonomous agent system merging 3 major frameworks (M4STCLAW, OpenWork, EIGENT) into one installable stack. 21 MCP servers, 11 LLM providers, consumer hardware only.
@@ -218,17 +232,15 @@ Full IDE migration config: 21-provider LLM routing chain, 5 MCP servers, 91 tool
 
 ## 📈 `> render activity_graph.svg`
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4stanuj&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF9D&line=3B82F6&point=FFFFFF&area=true&area_color=00FF9D)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4stanuj&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF9D&line=3B82F6&point=FFFFFF&area=true&area_color=00FF9D" alt="Activity Graph" />
+  </a>
+</p>
 
 ---
 
 ## 🛰️ `> execute contact_protocol.sh`
-
-<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -242,11 +254,16 @@ Full IDE migration config: 21-provider LLM routing chain, 5 MCP servers, 91 tool
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m4stanuj.github.io)
-[![Hire Me](https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black)](mailto:m4stanuj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4stanuj)
-
-</div>
+<p align="center">
+  <a href="https://m4stanuj.github.io">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="mailto:m4stanuj@gmail.com">
+    <img src="https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Initiate Comms" />
+  </a>
+  <a href="https://linkedin.com/in/m4stanuj">
+    <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=100&section=footer" width="100%">
-]]>
