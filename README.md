@@ -124,13 +124,7 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
 > **[ 🎯 SOLO OPERATOR SCALE ]**
 > Built LeadSniper to handle full B2B outreach autonomously — scraping, ICP scoring, and personalized drafting — all running locally on an RTX 2060 Super without any cloud dependency.
 
----
 
-## 📈 `> render activity_graph.svg`
-
-<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=m4stanuj&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF9D&line=3B82F6&point=FFFFFF&area=true&area_color=00FF9D" alt="Activity Graph" /></a></p>
-
----
 
 ## 🛰️ `> execute contact_protocol.sh`
 
