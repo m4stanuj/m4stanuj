@@ -1,101 +1,64 @@
-name: "MAST Core: Continuous Integration & Verification"
+name: Profile Health Check
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main", "master" ]
-  workflow_dispatch: # Manual execution support
+    branches: ["main"]
+  workflow_dispatch:
 
 jobs:
-  # --- Phase 1: Security Audit & Secret Leak Protection ---
-  security-audit:
-    name: "SecOps: Code & Secret Verification"
+  profile-readme:
+    name: Validate profile README
     runs-on: ubuntu-latest
     steps:
-      - name: "Checkout Repository"
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Full history needed for deep secret scanning
 
-      - name: "Scan for Hardcoded Keys & Secrets"
+      - name: Verify profile files and assets
+        shell: python
+        run: |
+          from pathlib import Path
+
+          required = [
+              "README.md",
+              "ARCHITECTURE.md",
+              "mast_banner.gif",
+              "aegis_banner.gif",
+              "openwork_banner.gif",
+              "sniper_banner.gif",
+          ]
+          missing = [name for name in required if not Path(name).exists()]
+          if missing:
+              raise SystemExit(f"Missing required profile assets: {missing}")
+
+          for name in ["README.md", "ARCHITECTURE.md"]:
+              text = Path(name).read_text(encoding="utf-8")
+              if text.count("```") % 2:
+                  raise SystemExit(f"Unbalanced markdown fences in {name}")
+              forbidden = [
+                  "<<<<<<<",
+                  "=======",
+                  ">>>>>>>",
+                  "architect_profile.json",
+                  "/var/log/mast/system.log",
+                  "<![CDATA[",
+                  "]]>",
+              ]
+              found = [item for item in forbidden if item in text]
+              if found:
+                  raise SystemExit(f"Forbidden content in {name}: {found}")
+
+          readme = Path("README.md").read_text(encoding="utf-8")
+          for asset in ["mast_banner.gif", "aegis_banner.gif", "openwork_banner.gif", "sniper_banner.gif"]:
+              if f"./{asset}" not in readme:
+                  raise SystemExit(f"README must reference ./{asset}")
+
+          for repo in ["MAST", "cai-osint", "openwork", "LeadSniper"]:
+              if f"https://github.com/m4stanuj/{repo}" not in readme:
+                  raise SystemExit(f"Missing project link: {repo}")
+
+      - name: Secret scan
         uses: gitleaks/gitleaks-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # Safety gate for LLM Router keys (Groq, Cerebras, OpenRouter, etc.)
-
-      - name: "Audit Python Dependencies"
-        uses: pypa/gh-action-pip-audit@v1.1.0
-        with:
-          inputs: requirements.txt
-          ignore-vulns: |
-            # Add specific harmless vulnerability overrides here if any
-          
-      - name: "Static Application Security Testing (SAST)"
-        run: |
-          pip install bandit
-          bandit -r ./ -x ./tests -ll
-          # -ll filters and alerts only medium/high security threats in python files
-
-  # --- Phase 2: Linting & Formatting Check ---
-  lint-and-format:
-    name: "Code Health: Ruff & Type Verification"
-    runs-on: ubuntu-latest
-    steps:
-      - name: "Checkout Repository"
-        uses: actions/checkout@v4
-
-      - name: "Set up Python Environment"
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: "Install Linting Engine"
-        run: |
-          python -m pip install --upgrade pip
-          pip install ruff
-
-      - name: "Run Ruff Check (Static Analysis)"
-        run: ruff check .
-
-      - name: "Verify Formatting Structure"
-        run: ruff format --check .
-
-  # --- Phase 3: Matrix System Testing ---
-  matrix-testing:
-    name: "Runtime Verification: Pytest"
-    needs: [security-audit, lint-and-format]
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.10", "3.11", "3.12"] # Multi-version runtime compatibility
-      fail-fast: false # Let other matrices finish if one fails
-
-    steps:
-      - name: "Checkout Code"
-        uses: actions/checkout@v4
-
-      - name: "Set up Python ${{ matrix.python-version }}"
-        uses: actions/setup-python@v5
-        with:
-          python-version: ${{ matrix.python-version }}
-          cache: 'pip' # Cache dependencies for faster CI runs
-
-      - name: "Install System Dependencies"
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          pip install pytest pytest-cov mock
-
-      - name: "Verify Core Abstractions & Schema Types"
-        run: |
-          # 1. Fallback LLM Router priority queue verify check
-          # 2. Semantic cache distance logic evaluation
-          # 3. 21 MCP Server schema type compliance checks
-          pytest tests/ --cov=./ --cov-report=xml || echo "No tests folder found, skipping verification."
-
-      - name: "Upload Coverage Statistics to GitHub"
-        uses: codecov/codecov-action@v3
-        with:
-          file: ./coverage.xml
-          fail_ci_if_error: false

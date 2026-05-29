@@ -12,7 +12,7 @@
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://m4stanuj.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a> <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a> <a href="https://github.com/m4stanuj"><img src="https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" /></a></p>
+<p align="center"><a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/m4stanuj/m4stanuj.github.io"><img src="https://img.shields.io/badge/PORTFOLIO_REPO-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Repository" /></a> <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a> <a href="https://github.com/m4stanuj"><img src="https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" /></a></p>
 
 ---
 
@@ -44,49 +44,58 @@ graph TD
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ MAST v1.0 — Unified AI Operator</h3>
+      <h3 align="center"><a href="https://github.com/m4stanuj/MAST">🏗️ MAST v1.0 — Unified AI Operator</a></h3>
       <p align="center">
-        <img src="./mast_banner.gif" width="100%" alt="MAST v1.0" />
+        <a href="https://github.com/m4stanuj/MAST"><img src="./mast_banner.gif" width="100%" alt="MAST v1.0" /></a>
       </p>
       <p>M4STCLAW + OpenWork + EIGENT merged into one autonomous stack. Features 21 MCP servers, 11 LLM providers, 11 task chains, and a 3-tier ChromaDB memory engine. Runs entirely locally on consumer VRAM (RTX 2060 Super) at ₹0/month.</p>
       <p align="center">
         <code>LangGraph</code> <code>ChromaDB</code> <code>Ollama</code> <code>MCP</code> <code>Local LLM</code>
       </p>
+      <p align="center"><a href="https://github.com/m4stanuj/MAST">Repository</a> · <a href="https://github.com/m4stanuj/MAST/releases">Releases</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ cai-osint — OSINT & Pentest Framework</h3>
+      <h3 align="center"><a href="https://github.com/m4stanuj/cai-osint">🛡️ cai-osint — OSINT & Pentest Framework</a></h3>
       <p align="center">
-        <img src="./aegis_banner.gif" width="100%" alt="cai-osint" />
+        <a href="https://github.com/m4stanuj/cai-osint"><img src="./aegis_banner.gif" width="100%" alt="cai-osint" /></a>
       </p>
       <p>AI-orchestrated autonomous recon framework integrating Shodan, Nmap, and Nuclei. Implements CEH-aligned methodologies with strict, hardcoded target checks to scan only authorized scopes.</p>
       <p align="center">
         <code>OSINT</code> <code>Nmap API</code> <code>Shodan</code> <code>Nuclei</code> <code>Security</code>
       </p>
+      <p align="center"><a href="https://github.com/m4stanuj/cai-osint">Repository</a> · <a href="https://github.com/m4stanuj/cai-osint#readme">Methodology</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔌 OpenWork — Universal MCP Workspace</h3>
+      <h3 align="center"><a href="https://github.com/m4stanuj/openwork">🔌 OpenWork — Universal MCP Workspace</a></h3>
       <p align="center">
-        <img src="./openwork_banner.gif" width="100%" alt="OpenWork" />
+        <a href="https://github.com/m4stanuj/openwork"><img src="./openwork_banner.gif" width="100%" alt="OpenWork" /></a>
       </p>
       <p>16 system-level Model Context Protocol (MCP) servers that plug seamlessly into any AI IDE like Cursor, VSCode, Windsurf, or OpenCode. Connects custom tools to your workspace via one JSON config.</p>
       <p align="center">
         <code>MCP Server</code> <code>IDE Integration</code> <code>JSON Config</code> <code>Playwright</code>
       </p>
+      <p align="center"><a href="https://github.com/m4stanuj/openwork">Repository</a> · <a href="https://github.com/m4stanuj/openwork/releases">Releases</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 LeadSniper — AI Outreach Engine</h3>
+      <h3 align="center"><a href="https://github.com/m4stanuj/LeadSniper">🎯 LeadSniper — AI Outreach Engine</a></h3>
       <p align="center">
-        <img src="./sniper_banner.gif" width="100%" alt="LeadSniper" />
+        <a href="https://github.com/m4stanuj/LeadSniper"><img src="./sniper_banner.gif" width="100%" alt="LeadSniper" /></a>
       </p>
       <p>Autonomous lead generation and outreach pipeline. Scrapes public directories, filters and scores prospects against custom ICP (Ideal Customer Profiles) rules, and drafts personalized email copy.</p>
       <p align="center">
         <code>Web Scraping</code> <code>LLM Routing</code> <code>Outreach</code> <code>Python</code>
       </p>
+      <p align="center"><a href="https://github.com/m4stanuj/LeadSniper">Repository</a> · <a href="https://github.com/m4stanuj/LeadSniper#readme">Pipeline</a></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/m4stanuj/MAST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4stanuj&repo=MAST&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&icon_color=3B82F6" alt="MAST pinned repo" /></a>
+  <a href="https://github.com/m4stanuj/mast-llm-router"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4stanuj&repo=mast-llm-router&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&icon_color=3B82F6" alt="mast-llm-router pinned repo" /></a>
+</p>
 
 ---
 
@@ -148,6 +157,10 @@ graph TD
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4stanuj&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B9BB4&line=00FF9D&point=3B82F6&area=true&area_color=00FF9D" alt="Contribution activity graph" />
+</p>
+
 ---
 
 ## 🏆 System Highlights
@@ -187,8 +200,8 @@ graph TD
 ```
 
 <p align="center">
-  <a href="https://m4stanuj.github.io">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  <a href="https://github.com/m4stanuj/m4stanuj.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO_REPO-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Repository" />
   </a>
   <a href="mailto:m4stanuj@gmail.com">
     <img src="https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Initiate Comms" />
