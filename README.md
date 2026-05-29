@@ -111,14 +111,14 @@ graph TD
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/m4stanuj/openwork">OpenWork - Universal MCP Workspace</a></h3>
-      <p align="center"><a href="https://github.com/m4stanuj/openwork"><img src="./openwork_banner.gif" width="100%" alt="OpenWork banner" /></a></p>
+      <p align="center"><a href="https://github.com/m4stanuj/openwork"><img src="./openwork_workspace_v2.gif" width="100%" alt="OpenWork banner" /></a></p>
       <p>Portable MCP workspace stack for AI IDEs. Focused on safe file work, browser automation, research, memory, skills, notifications, and tool reconstruction through config.</p>
       <p align="center"><code>MCP Server</code> <code>Playwright</code> <code>JSON-RPC</code> <code>Automation</code></p>
       <p align="center"><a href="https://github.com/m4stanuj/openwork">Repository</a> | <a href="https://github.com/m4stanuj/openwork/releases">Releases</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/m4stanuj/LeadSniper">LeadSniper - AI Outreach Engine</a></h3>
-      <p align="center"><a href="https://github.com/m4stanuj/LeadSniper"><img src="./sniper_banner.gif" width="100%" alt="LeadSniper banner" /></a></p>
+      <p align="center"><a href="https://github.com/m4stanuj/LeadSniper"><img src="./leadsniper_outreach_v2.gif" width="100%" alt="LeadSniper banner" /></a></p>
       <p>Local outreach pipeline for scraping public directories, filtering prospects, scoring by ICP rules, and drafting personalized emails through LLM-assisted workflows.</p>
       <p align="center"><code>Scraping</code> <code>LLM Routing</code> <code>ICP Scoring</code> <code>Python</code></p>
       <p align="center"><a href="https://github.com/m4stanuj/LeadSniper">Repository</a> | <a href="https://github.com/m4stanuj/LeadSniper#readme">Pipeline</a></p>
