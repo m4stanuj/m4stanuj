@@ -1,18 +1,80 @@
-# m4stanuj
+<!-- 
+  ============================================================
+  🚀 M4ST — Solo AI Systems Architect
+  ============================================================
+  SEO: #AIArchitect #LLM #AgenticAI #MCP #ZeroCostAI 
+  #OffensiveSecurity #OSINT #Python #AutonomousSystems
+  #SelfHosted #AIInfrastructure #MultiAgent #OpenSource
+  ============================================================
+-->
 
-<p align="center"><a href="https://github.com/m4stanuj"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=230&section=header&text=M4ST&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Solo%20AI%20Systems%20Architect%20%7C%20Building%20the%20MAST%20Ecosystem&descAlignY=55&descSize=16&descColor=8B9BB4" alt="M4ST Header" /></a></p>
+<p align="center">
+  <a href="https://github.com/m4stanuj">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=280&section=header&text=M4ST&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Solo%20AI%20Systems%20Architect%20%7C%20Building%20the%20MAST%20Ecosystem&descAlignY=55&descSize=18&descColor=8B9BB4" alt="M4ST Header"/>
+  </a>
+</p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Solo+AI+Systems+Architect+%7C+Bareilly%2C+India;%24+cat+mission.txt;Zero-cost+autonomous+agent+infrastructure+on+consumer+hardware;%24+uptime;21+MCP+servers+online+%7C+11+LLM+providers+active+%7C+%E2%82%B90%2Fmonth" alt="Typing SVG" /></a></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%24+whoami;Solo+AI+Systems+Architect+%7C+Bareilly%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+mission.txt;Zero-cost+autonomous+agent+infrastructure+on+consumer+hardware;%24+uptime;21+MCP+servers+online+%7C+11+LLM+providers+active+%7C+%E2%82%B90%2Fmonth;%24+echo+%22%23AIArchitect+%23LLM+%23MCP+%23ZeroCostAI%22" alt="Typing SVG"/>
+  </a>
+</p>
 
+<!-- AI Neural Network Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="AI Neural Network"/>
+</p>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  [ SYSTEM ONLINE ] -> MAST v1.0 Active                      ║
+║  "I build the infrastructure that makes AI tools actually   ║
+║   work — agents, memory, routing, automation."              ║
+║                                                              ║
+║  GPU: RTX 2060 Super (8GB VRAM)                             ║
+║  Location: Bareilly, India 🇮🇳                               ║
+║  Ops Cost: ₹0/month · Uptime: 99.97%                       ║
+║  Status: Eliminating human intervention through recursive   ║
+║          learning. M4STCLAW v5 Active.                       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-[ SYSTEM ONLINE ] -> MAST v1.0 Active.
-"I build the infrastructure that makes AI tools actually work — agents, memory, routing, automation."
-Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
-```
 
-<p align="center"><a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://m4stanuj.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a> <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a> <a href="https://github.com/m4stanuj"><img src="https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" /></a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://m4stanuj.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Encrypted_Comms-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+  <a href="https://x.com/m4stanuj"><img src="https://img.shields.io/badge/X_%40m4stanuj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+  <a href="https://github.com/m4stanuj"><img src="https://komarev.com/ghpvc/?username=m4stanuj&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS" alt="Views"/></a>
+</p>
 
+<!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 📡 `> cat /var/log/system/daily_briefing.log`
+
+<!-- Daily Quote - Updates automatically -->
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Daily Dev Quote"/>
+  </a>
+</p>
+
+```log
+[2026-05-29 06:00:00.000] [SYSTEM]  MAST v1.0 daily briefing —
+  🔋 Power state: Grid Node 0x01 · All systems nominal
+  🌐 MCP Gateways: 21/21 online · 91/91 tools registered
+  🧠 LLM Balance Pool: 56 keys rotating · 11 providers
+  ⚡ Cache efficiency: 42% hit rate · 12ms avg latency
+  🛡️ Security postures: All authorized targets verified
+  📊 Ops cost today: ₹0.00 · Month-to-date: ₹0.00
+  ─────────────────────────────────────────────
+  💬 "Building the infrastructure that makes AI work."
+```
+
+---
 
 ## 🧠 `> cat /config/architect_profile.json`
 
@@ -21,7 +83,7 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
   "identity": {
     "alias": "M4ST",
     "class": "Solo AI Systems Architect",
-    "location": "Bareilly, Uttar Pradesh, India",
+    "location": "Bareilly, Uttar Pradesh, India 🇮🇳",
     "hardware_specs": {
       "gpu": "NVIDIA GeForce RTX 2060 Super (8GB GDDR6 VRAM)",
       "cpu": "Intel Core i7-10700K (8C/16T @ 5.1GHz)",
@@ -94,42 +156,31 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
 
 ---
 
-## 📡 `> tail -f /var/log/mast/system.log`
+## 📈 `> cat /etc/contribution_metrics`
 
-```log
-[2026-05-26 08:14:02.109] [SYSTEM]  Initializing MAST v1.0 core stack on GPU 0 (NVIDIA RTX 2060 Super)...
-[2026-05-26 08:14:02.390] [SYSTEM]  Loading 21 MCP server schemas from config/mcp_gateways/...
-[2026-05-26 08:14:03.112] [SYSTEM]  91 tools successfully registered into agent namespace.               [ONLINE]
-[2026-05-26 08:14:05.419] [ROUTER]  New execution request queued: "audit repository & extract config schemas"
-[2026-05-26 08:14:05.422] [ROUTER]  Routing task → Developer Specialist Node (Chain 3: code_analysis)
-[2026-05-26 08:14:05.811] [LLM-BAL] Requesting Groq [llama-3.1-70b-versatile]...
-[2026-05-26 08:14:06.104] [LLM-BAL] API Error: 429 Too Many Requests (Rate limit reached)
-[2026-05-26 08:14:06.106] [LLM-BAL] Rotating API Key pool → Index 14 → Switching provider to Cerebras...
-[2026-05-26 08:14:06.321] [LLM-BAL] Cerebras response received in 215ms (112 tokens/sec)                 [SUCCESS]
-[2026-05-26 08:22:19.004] [MEMORY]  Executing vector query on ChromaDB persistent client...
-[2026-05-26 08:22:19.018] [MEMORY]  ChromaDB: Retrieved 3 context vectors matching indices [0x8f1e, 0x90ac, 0x90f2]
-[2026-05-26 08:22:19.040] [MEMORY]  SQLite: Task log successfully committed to SQLite ledger at Index 1104
-[2026-05-26 08:22:21.710] [PENTEST] Initiating security recon flow on scope...
-[2026-05-26 08:22:21.712] [PENTEST] Checking domain against safety rules in config/authorized_targets.txt...
-[2026-05-26 08:22:21.804] [PENTEST] Domain matched authorized list. Spawning Nmap (Flags: -sV -T4 -F)...   [VERIFIED]
-[2026-05-26 08:22:25.409] [PENTEST] Port scanner output parsed: 2 open ports, service versions verified.
-[2026-05-26 09:27:11.120] [CACHE]   Intercepting prompt request at RAG Gateway...
-[2026-05-26 09:27:11.132] [CACHE]   Cosine similarity query hit: 0.985 confidence score.
-[2026-05-26 09:27:11.144] [CACHE]   Retrieved prompt response from semantic cache index in 12ms.          [SAVED_TOKENS]
-[2026-05-26 09:45:33.090] [SNIPER]  LeadSniper: Initiating Apollo directory scraping thread...
-[2026-05-26 09:45:37.411] [SNIPER]  LeadSniper: 47 target profiles collected. Scoring against ICP schema...
-[2026-05-26 09:45:38.220] [SNIPER]  LeadSniper: 12 candidates scored > 0.85 limit. Personalized email drafts queued.
-[2026-05-26 10:02:17.810] [VOICE]   Synthesizing daily audio briefing...
-[2026-05-26 10:02:18.020] [VOICE]   Kokoro-82M: Generated 180 speech tokens in 210ms (Real-Time Factor: 0.85 RTF) [SUCCESS]
-```
-
----
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4stanuj&theme=github-dark&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true&custom_title=MAST%20Activity%20Timeline" width="100%" alt="Activity Graph"/>
+  </a>
+</p>
 
 ## 📊 `> ./system_diagnostics.sh`
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=3B82F6&text_color=8B9BB4&ring_color=00FF9D" height="180" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F293D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=8B9BB4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=3B82F6" height="180" alt="Streak Stats"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4stanuj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=3B82F6&text_color=8B9BB4&ring_color=00FF9D&count_private=true&include_all_commits=true" height="180" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4stanuj&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F293D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=8B9BB4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=3B82F6" height="180" alt="Streak"/>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4stanuj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&langs_count=8" height="160" alt="Top Languages"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4stanuj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=8B9BB4&langs_count=8" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m4stanuj&theme=dark&bg_color=0D1117&hide_border=true&title_color=00FF9D&text_color=8B9BB4&langs_count=6&layout=compact" height="160" alt="Wakatime"/>
+</p>
+
+<!-- Matrix Code Rain Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saAlB5fFBZ6I/giphy.gif" width="400" alt="Matrix Rain"/>
+</p>
 
 ---
 
@@ -148,17 +199,54 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
 
 ## 🛠️ `> ./inspect_tech_stack.sh`
 
-### Core Languages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,bash,linux,docker&perline=6)](https://skillicons.dev)
+### ⚡ Core Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,bash,linux,docker&perline=6&theme=dark" alt="Languages"/>
+  </a>
+</p>
 
-### AI / ML / Orchestration
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=python&logoColor=00FF9D) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llama&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFD700?style=flat-square&logo=database&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00FF9D?style=flat-square&logo=protocol&logoColor=black) ![Whisper STT](https://img.shields.io/badge/Whisper_STT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+### 🧠 AI / ML / Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=flat-square&logo=python&logoColor=00FF9D" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=llama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FFD700?style=flat-square&logo=database&logoColor=black" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-00FF9D?style=flat-square&logo=protocol&logoColor=black" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Whisper_STT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7047EB?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white" alt="MLX"/>
+  <img src="https://img.shields.io/badge/Autogen-008080?style=flat-square&logo=python&logoColor=white" alt="Autogen"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
 
-### Infrastructure & Tools
-[![Infrastructure](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,nginx,vscode,git,github&perline=8)](https://skillicons.dev)
+### 🗄️ Infrastructure & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,nginx,grafana&perline=6&theme=dark" alt="Infrastructure"/>
+  </a>
+</p>
 
-### Security & OSINT
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-6C3483?style=flat-square&logo=security&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white) ![CEH](https://img.shields.io/badge/CEH_Methodology-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+### 🛡️ Security & OSINT
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white" alt="Shodan"/>
+  <img src="https://img.shields.io/badge/Nuclei-6C3483?style=flat-square&logo=security&logoColor=white" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
+
+### 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH_Certified_Ethical_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CEH"/>
+  <img src="https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AI_Security_Risk-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="AI Security"/>
+</p>
 
 ---
 
@@ -172,29 +260,90 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
   </picture>
 </p>
 
+<!-- DAG Mesh Network Visualization GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5zD1cG6V5qFm/giphy.gif" width="500" alt="DAG Network Flow"/>
+</p>
+
 ---
 
 ## 🏆 `> cat /build/highlights.txt`
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4stanuj&theme=algolia&column=6&no-frame=true&margin-w=15" alt="Trophies" /></a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=m4stanuj&theme=algolia&column=6&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
+  </a>
+</p>
 
-> **[ 🏗️ MAST ECOSYSTEM ARCHITECT ]**
-> Built a unified autonomous agent system merging 3 major frameworks (M4STCLAW, OpenWork, EIGENT) into one installable stack. 21 MCP servers, 11 LLM providers, consumer hardware only.
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  🏗️ MAST ECOSYSTEM ARCHITECT                                     │
+│  Built a unified autonomous agent system merging 3 major         │
+│  frameworks into one installable stack. 21 MCP servers,          │
+│  11 LLM providers, consumer hardware only.                       │
+│                                                                   │
+│  🛡️ OSINT & PENTEST AUTOMATION                                   │
+│  AI-orchestrated recon framework integrating Shodan, Nmap,       │
+│  and Nuclei. CEH-aligned methodology with authorized-target      │
+│  verification before every scan.                                 │
+│                                                                   │
+│  ⚡ ZERO-COST INFRASTRUCTURE                                      │
+│  Free-tier LLM routing across 11 providers with auto fallback,   │
+│  semantic caching (40-60% savings), and local fallback —         │
+│  operational cost: ₹0/month.                                     │
+│                                                                   │
+│  🎯 SOLO OPERATOR SCALE                                           │
+│  LeadSniper handles full B2B outreach autonomously —             │
+│  scraping, ICP scoring, and personalized drafting — all          │
+│  running locally on an RTX 2060 Super. Zero cloud dependency.    │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-> **[ 🛡️ OSINT & PENTEST AUTOMATION ]**
-> Engineered an AI-orchestrated recon framework integrating Shodan, Nmap, and Nuclei. CEH-aligned workflow with hardcoded authorized-target verification before any scan.
+---
 
-> **[ ⚡ ZERO-COST INFRASTRUCTURE ]**
-> Designed a free-tier LLM routing system across 11 providers with automatic fallback, semantic response caching (40-60% API cost reduction), and local model fallback — operational cost: ₹0/month.
+## 💻 `> cat /proc/devices`
 
-> **[ 🎯 SOLO OPERATOR SCALE ]**
-> Built LeadSniper to handle full B2B outreach autonomously — scraping, ICP scoring, and personalized drafting — all running locally on an RTX 2060 Super without any cloud dependency.
+```ascii
+┌───────────────────────────────────────┬──────────────────────────┐
+│  Component                            │ Spec                     │
+├───────────────────────────────────────┼──────────────────────────┤
+│  🖥️ GPU                               │ RTX 2060 Super 8GB GDDR6 │
+│  ⚡ CPU                               │ Intel i7-10700K @ 5.1GHz│
+│  🧠 RAM                               │ 32GB DDR4 @ 3200MHz      │
+│  💾 Storage                           │ 1TB NVMe Gen3 SSD        │
+│  🐧 OS                                │ Windows 11 + WSL2        │
+│  📟 Editor                            │ VS Code + Neovim         │
+│  💰 Daily Ops Cost                    │ ₹0.00                    │
+└───────────────────────────────────────┴──────────────────────────┘
+```
 
+---
 
+## 📝 `> curl blog.m4stanuj.dev/latest`
+
+<!-- BLOG-POST-LIST:START -->
+_Stay tuned — architecture deep-dives and system design notes coming soon._
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 *Pro tip: Connect your Medium/Dev.to blog using [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) to auto-populate this section with your latest articles.*
+
+---
+
+## 📅 `> cal --contributions`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4stanuj/m4stanuj/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar"/>
+</p>
+
+> ⌛ *Enable by adding the [3D Calendar GitHub Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your `.github/workflows/` directory.*
+
+---
 
 ## 🛰️ `> execute contact_protocol.sh`
 
-```
+```ascii
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   OPEN TO: Freelance AI Automation · AI Engineering Roles   │
@@ -203,9 +352,31 @@ Hardware: RTX 2060 Super (8GB VRAM) · Operational Cost: ₹0/month
 │   RESPONSE TIME: < 12 hours                                 │
 │   PREFERRED: Direct message or email                        │
 │                                                             │
+│   📍 Bareilly, India 🇮🇳 · GMT+5:30                         │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><a href="https://m4stanuj.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a> <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Initiate Comms" /></a> <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" /></a></p>
+<p align="center">
+  <a href="https://m4stanuj.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/INITIATE_COMMS-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Comms"/></a>
+  <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=100&section=footer" width="100%">
+<!-- Support Section -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/m4stanuj"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee"/></a>
+  <a href="https://github.com/sponsors/m4stanuj"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/></a>
+  <a href="https://paypal.me/m4stanuj"><img src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:3B82F6&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⚡ Building the infrastructure that makes AI tools actually work ⚡</i><br>
+  <sub>M4ST · Grid Node 0x01 · Bareilly, India · ₹0/month · ∞ Possibilities</sub>
+</p>
