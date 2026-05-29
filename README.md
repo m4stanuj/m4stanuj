@@ -40,35 +40,51 @@ I build practical AI systems that survive real constraints: limited VRAM, free-t
   </tr>
 </table>
 
-```text
-M4ST operating style
-- Free-first, local-first, paid-never unless there is a real reason.
-- Ship fast, verify honestly, then polish the parts that matter.
-- Build systems that remember context instead of asking the same thing again.
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>MAST v1.0: Mast Autonomous System Terminal</h3>
+      <p><b>MAST</b> is my main build: a local-first AI operator that connects LLM routing, MCP tools, memory, browser automation, voice/vision utilities, and defensive security workflows into one workspace.</p>
+      <p>It is designed for consumer hardware, unstable free-tier APIs, and real daily work where the assistant needs context, tools, and recovery paths instead of just chat.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>Core Numbers</h3>
+      <p>
+        <img src="https://img.shields.io/badge/21-MCP_servers-00FF9D?style=flat-square" alt="21 MCP servers" />
+        <img src="https://img.shields.io/badge/91-tool_interfaces-3B82F6?style=flat-square" alt="91 tool interfaces" />
+        <img src="https://img.shields.io/badge/11-LLM_providers-8B5CF6?style=flat-square" alt="11 LLM providers" />
+        <img src="https://img.shields.io/badge/28-agent_skills-F97316?style=flat-square" alt="28 agent skills" />
+      </p>
+      <p><b>Hardware target:</b> RTX 2060 Super, 8GB VRAM, local fallback ready.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## MAST Execution Flow
+## MAST Ecosystem Map
 
 ```mermaid
 graph TD
-    A["User intent"] --> B["Task router"]
-    B --> C{"Known answer in semantic cache?"}
-    C -->|"yes"| D["Return cached response"]
-    C -->|"no"| E["Classify task type"]
-    E --> F["Code chain: Kimi K2, Qwen-Coder, DeepSeek"]
-    E --> G["Speed chain: Groq, Cerebras, Gemini"]
-    E --> H["Reasoning chain: DeepSeek-R1, Nemotron, Gemini"]
-    E --> I["Hinglish chain: Sarvam-M, Gemini, Groq"]
-    F --> J["Provider health check"]
-    G --> J
-    H --> J
-    I --> J
-    J -->|"success"| K["Save result to memory and return"]
-    J -->|"rate limit or error"| L["Rotate to next provider"]
-    L --> J
-    L -->|"all remote routes exhausted"| M["Local Ollama fallback"]
+    M["MAST v1.0"]
+    M --> A["Agent workspace"]
+    M --> B["Model layer"]
+    M --> C["Memory layer"]
+    M --> D["Automation layer"]
+    M --> E["Security layer"]
+    M --> F["Voice and vision layer"]
+    A --> A1["OpenCode, Cursor, VS Code, Windsurf"]
+    A --> A2["MCP server hub"]
+    B --> B1["Cloud provider routes"]
+    B --> B2["Local Ollama fallback"]
+    C --> C1["ChromaDB semantic memory"]
+    C --> C2["SQLite task ledger"]
+    D --> D1["Playwright browser control"]
+    D --> D2["Scheduler and notifications"]
+    E --> E1["Authorized OSINT tooling"]
+    E --> E2["Nmap, Shodan, Nuclei workflows"]
+    F --> F1["Whisper speech input"]
+    F --> F2["OCR and screen understanding"]
 ```
 
 ---
