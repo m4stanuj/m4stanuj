@@ -68,9 +68,6 @@
 ### [m4stclaw-legacy-archive](https://github.com/m4stanuj/m4stclaw-legacy-archive)
 > Internal M4STCLAW architecture commits from 2022-2025. The evolution of the autonomous mesh network.
 
-### [semantic-cache-engine](https://github.com/m4stanuj/semantic-cache-engine)
-> Drop-in LLM response cache using ChromaDB vector similarity. Cuts API costs 40-60%. Zero configuration.
-
 ---
 
 ## Architecture
