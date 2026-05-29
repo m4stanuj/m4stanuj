@@ -23,8 +23,8 @@ jobs:
           required = [
               "README.md",
               "ARCHITECTURE.md",
-              "mast_banner.gif",
-              "aegis_banner.gif",
+              "mast_terminal_v2.gif",
+              "cai_osint_recon_v2.gif",
               "openwork_workspace_v2.gif",
               "leadsniper_outreach_v2.gif",
           ]
@@ -50,7 +50,7 @@ jobs:
                   raise SystemExit(f"Forbidden content in {name}: {found}")
 
           readme = Path("README.md").read_text(encoding="utf-8")
-          for asset in ["mast_banner.gif", "aegis_banner.gif", "openwork_workspace_v2.gif", "leadsniper_outreach_v2.gif"]:
+          for asset in ["mast_terminal_v2.gif", "cai_osint_recon_v2.gif", "openwork_workspace_v2.gif", "leadsniper_outreach_v2.gif"]:
               if f"./{asset}" not in readme:
                   raise SystemExit(f"README must reference ./{asset}")
 

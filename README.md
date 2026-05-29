@@ -95,14 +95,14 @@ graph TD
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/m4stanuj/MAST">MAST v1.0 - Autonomous System Terminal</a></h3>
-      <p align="center"><a href="https://github.com/m4stanuj/MAST"><img src="./mast_banner.gif" width="100%" alt="MAST v1.0 banner" /></a></p>
+      <p align="center"><a href="https://github.com/m4stanuj/MAST"><img src="./mast_terminal_v2.gif" width="100%" alt="MAST v1.0 banner" /></a></p>
       <p>Unified AI stack merging M4STCLAW, OpenWork, and EIGENT into a local-first operator: 21 MCP servers, 11 provider routes, task chains, semantic cache, memory, scheduler, and local fallback.</p>
       <p align="center"><code>MCP</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Ollama</code> <code>Python</code></p>
       <p align="center"><a href="https://github.com/m4stanuj/MAST">Repository</a> | <a href="https://github.com/m4stanuj/MAST/releases">Releases</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/m4stanuj/cai-osint">cai-osint - Authorized Recon Framework</a></h3>
-      <p align="center"><a href="https://github.com/m4stanuj/cai-osint"><img src="./aegis_banner.gif" width="100%" alt="cai-osint banner" /></a></p>
+      <p align="center"><a href="https://github.com/m4stanuj/cai-osint"><img src="./cai_osint_recon_v2.gif" width="100%" alt="cai-osint banner" /></a></p>
       <p>AI-assisted OSINT and pentest workflow with Nmap, Shodan, Nuclei, target-scope guardrails, and CEH-style methodology for defensive research and authorized testing.</p>
       <p align="center"><code>OSINT</code> <code>Nmap</code> <code>Shodan</code> <code>Nuclei</code> <code>Security</code></p>
       <p align="center"><a href="https://github.com/m4stanuj/cai-osint">Repository</a> | <a href="https://github.com/m4stanuj/cai-osint#readme">Methodology</a></p>
