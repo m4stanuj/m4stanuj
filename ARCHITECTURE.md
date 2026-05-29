@@ -1,4 +1,4 @@
-<![CDATA[# 🏗️ MAST Ecosystem — System Architecture
+# 🏗️ MAST Ecosystem — System Architecture
 
 > **M4STCLAW v5 + OpenWork + EIGENT** — Unified Autonomous Agent Infrastructure
 
@@ -30,7 +30,7 @@ graph TB
     subgraph "💾 MEMORY LAYER"
         CHROMA[("🧬 ChromaDB<br/>Vector Store")]
         SQL[("📊 SQLite<br/>Task Ledger")]
-        CACHE["⚡ Semantic Cache<br/>(< 12ms retrieval)"]
+        CACHE["⚡ Semantic Cache<br/>(sub-12ms retrieval)"]
     end
 
     subgraph "📚 LEARNING LAYER"
@@ -195,4 +195,3 @@ graph LR
 **Built by [M4ST](https://github.com/m4stanuj) · Powered by consumer hardware · Operational cost: ₹0/month**
 
 </div>
-]]>
