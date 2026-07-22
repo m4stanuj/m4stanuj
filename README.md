@@ -13,10 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://in.linkedin.com/in/mast-anuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/m4stanuj"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="mailto:mast.jarvis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-  <a href="https://github.com/m4stanuj/m4stanuj.github.io"><img src="https://img.shields.io/badge/Portfolio_Repo-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio repository" /></a>
+  <a href="https://m4st.vercel.app"><img src="https://img.shields.io/badge/Portfolio-m4st.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -31,6 +32,13 @@
 ## Signal
 
 I build practical AI systems that survive real constraints: limited VRAM, free-tier APIs, Windows/Kali workflows, messy browser automation, and tools that need to keep working after the demo.
+
+## Current Focus
+
+- Shipping the **M4ST** ecosystem as local-first AI operator infrastructure.
+- Improving repo trust surfaces: security policies, contribution docs, safer demos, and reproducible setup.
+- Building daily, useful GitHub streaks through real docs, tests, examples, CI, and demo upgrades.
+- Keeping security/OSINT work authorized-only, defensive, and scope-gated.
 
 <table>
   <tr>
@@ -238,9 +246,9 @@ Preferred contact: email or LinkedIn DM.
 ```
 
 <p align="center">
-  <a href="mailto:m4stanuj@gmail.com"><img src="https://img.shields.io/badge/Initiate_Comms-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" /></a>
-  <a href="https://linkedin.com/in/m4stanuj"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/m4stanuj/m4stanuj.github.io"><img src="https://img.shields.io/badge/Portfolio_Repo-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio repository" /></a>
+  <a href="mailto:mast.jarvis@gmail.com"><img src="https://img.shields.io/badge/Initiate_Comms-00FF9D?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" /></a>
+  <a href="https://in.linkedin.com/in/mast-anuj"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://m4st.vercel.app"><img src="https://img.shields.io/badge/Portfolio-m4st.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF9D,100:3B82F6&height=90&section=footer" width="100%" alt="Footer wave" />
