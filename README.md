@@ -40,6 +40,8 @@ I build practical AI systems that survive real constraints: limited VRAM, free-t
 - Building daily, useful GitHub streaks through real docs, tests, examples, CI, and demo upgrades.
 - Keeping security/OSINT work authorized-only, defensive, and scope-gated.
 
+Public build notes: [DEVLOG.md](DEVLOG.md) · [CONTRIBUTION_SPRINT.md](CONTRIBUTION_SPRINT.md)
+
 <table>
   <tr>
     <td width="33%"><b>Agent Infrastructure</b><br/>MCP servers, memory layers, tool routers, schedulers, fallback chains, and workspace automation.</td>
