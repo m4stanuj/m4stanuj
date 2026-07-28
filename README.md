@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RTX_2060_Super-8GB_VRAM-00FF9D?style=flat-square" alt="RTX 2060 Super" />
+  <img src="https://img.shields.io/badge/Low_VRAM-4--8GB_GPU_Ready-00FF9D?style=flat-square" alt="Low VRAM Compatible" />
   <img src="https://img.shields.io/badge/Local_first-INR_0_per_month-3B82F6?style=flat-square" alt="Local first" />
   <img src="https://img.shields.io/badge/21_MCP_servers-91_tools-8B5CF6?style=flat-square" alt="MCP stack" />
   <img src="https://img.shields.io/badge/11_LLM_providers-fallback_router-F97316?style=flat-square" alt="LLM routing" />
