@@ -16,7 +16,6 @@
   <a href="https://in.linkedin.com/in/mast-anuj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/m4stanuj"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="mailto:mast.jarvis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://fiverr.com/m4stanuj"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="https://m4st.vercel.app"><img src="https://img.shields.io/badge/Portfolio-m4st.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
