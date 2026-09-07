@@ -169,7 +169,7 @@ graph LR
 ┌─────────────────────────────────────────────┐
 │  MINIMUM VIABLE SETUP                       │
 │                                             │
-│  GPU: NVIDIA RTX 2060 Super (8GB VRAM)      │
+│  GPU: 4-8GB VRAM (any modern GPU)           │
 │  RAM: 16GB DDR4                             │
 │  Storage: 256GB SSD                         │
 │  OS: Linux (Ubuntu 22.04+) or Windows 11    │

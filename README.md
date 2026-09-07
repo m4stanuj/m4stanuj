@@ -65,7 +65,7 @@ Public build notes: [DEVLOG.md](DEVLOG.md) · [CONTRIBUTION_SPRINT.md](CONTRIBUT
         <img src="https://img.shields.io/badge/11-LLM_providers-8B5CF6?style=flat-square" alt="11 LLM providers" />
         <img src="https://img.shields.io/badge/28-agent_skills-F97316?style=flat-square" alt="28 agent skills" />
       </p>
-      <p><b>Hardware target:</b> RTX 2060 Super, 8GB VRAM, local fallback ready.</p>
+      <p><b>Hardware target:</b> Consumer-grade hardware, local fallback ready.</p>
     </td>
   </tr>
 </table>
@@ -189,7 +189,7 @@ graph TD
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       </p>
-      <p><b>Workspace:</b> Windows AtlasOS, Kali Linux dual boot, OpenCode, Cursor, VS Code, Windsurf, browser automation, and reproducible setup scripts.</p>
+      <p><b>Workspace:</b> Windows Ghost Spectre, Kali Linux dual boot, OpenCode, Cursor, VS Code, Windsurf, browser automation, and reproducible setup scripts.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Security & OSINT</h3>
